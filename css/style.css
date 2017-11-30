@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {width: 1000px;margin: 0 auto;margin-top: 20px;}
+.contentes{}
+.logo span{
+    float: left;
+    width: 100%;
+    display: block;
+    height: 3px;
+    background: black;
+    margin-top: 25px;
+}
+.w{position: absolute;top: 44px;left: 978px;}
+.contentes h1{
+    width: 94%;
+    float: right;
+    text-transform: uppercase;
+}
+.contentes ul{
+    float: right;
+    width: 30%;
+    margin-top: -50px;
+}
+.contentes ul li{
+    display: inline;
+}
+body nav{
+    float: left;
+}
+.logo nav{
+}
+.logo nav ul{}
+.logo nav ul li{
+    list-style-type: decimal;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 17px;
+    padding: 23px;
+    margin-top: 17px;
+}
+.logo nav ul li a{
+    text-decoration: none;
+    color: #737373;
+}
+.back {
+}
+.back img{padding: 25px;background-repeat: no-repeat;margin-top: 7em;margin-left: 17em;}
+.back {
+    background: url(../images/slider_background.png);
+    background-repeat: no-repeat;
+    margin-top: 134px;
+    margin-left: 30px;
+}
+
+.content {
+    margin-top: 30px;
+    text-align: -webkit-center;
+}
+.content p{color: #737373;padding: 12px;font-size: 18px;width: 40%;}
+.content button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 50px;
+    display: inline-block;
+    height: 40px;
+    width: 14%;
+    font-size: 14px;
+}
+
+.down {margin-top: 63px;background: #2a3138;height: 135px;}
+
+.down p{width: 50%;float: left;margin-top: 60px;color: white;text-transform: uppercase;margin-left: 14em;font-size: 21px;}
+.down button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    margin-top: 50px;
+    display: inline-block;
+    height: 37px;
+    text-transform: uppercase;
+    width: 15%;
+    font-size: 14px;
+}
+footer{
+    background: #f6f5f5;
+    padding: 27px;
+    height: 20px;
+}
+footer p{
+    margin-left: 9em;
+    text-transform: uppercase;
+    width: 50%;
+    color: #868689;
+    float: left;
+}
+footer nav{}
+footer nav ul{
+}
+footer nav ul li{
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline;
+    padding: 10px;
+    font-size: 14px;
+}
+footer nav ul li a{
+    text-decoration: none;
+    color: #737373;
+}
