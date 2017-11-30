@@ -57,9 +57,9 @@ body nav{
 
 .content {
     margin-top: 30px;
-    text-align: -webkit-center;
+    text-align: center;
 }
-.content p{color: #737373;padding: 12px;font-size: 18px;width: 40%;}
+.content p{color: #737373;font-size: 18px;width: 48%;margin-left: 400px;}
 .content button{
     background-color: #4CAF50;
     border: none;
